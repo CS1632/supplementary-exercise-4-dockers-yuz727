@@ -28,7 +28,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import org.junit.FixMethodOrder;
 import org.junit.runners.MethodSorters;
 import java.time.Duration;
-import org.openqa.selenium.ChromeOptions;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class D3Test {
